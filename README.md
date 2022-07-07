@@ -1,4 +1,4 @@
-# UladzislauPapliouka
+# Uladzislau Papliouka
 ## Engineer student at BSUIR
 - 19 y.o
 ## Technologies
