@@ -14,3 +14,4 @@
 [![Instagram Badge](https://img.shields.io/badge/-etozhewil-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/uladzislau_papliouka/)](https://instagram.com/etozhewil)
 [![Gmail Badge](https://img.shields.io/badge/-uladzislau.papliouka@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:uladzislau.papliouka@gmail.com)](mailto:uladzislau.papliouka@gmail.com)
 [![Twitter URL](https://img.shields.io/twitter/url?label=wil_0_liw&logo=twitter&logoColor=sky&style=flat-square&url=https%3A%2F%2Ftwitter.com%2Fwil_0_liw)](https://twitter.com/wil_0_liw)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/uladzislaupapliouka/)
