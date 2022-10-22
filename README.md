@@ -18,8 +18,9 @@ technologies.</p><p align='left'> You can view my resume <a href='https://drive.
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=UladzislauPapliouka alt=UladzislauPapliouka /> </p>
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=UladzislauPapliouka&show_icons=true&include_all_commits=true&theme=dark)](https://github.com/UladzislauPapliouka/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UladzislauPapliouka&layout=compact&theme=dark)](https://github.com/UladzislauPapliouka/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=UladzislauPapliouka)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UladzislauPapliouka)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
