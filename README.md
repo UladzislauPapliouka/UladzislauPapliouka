@@ -12,7 +12,9 @@ React,Redux, HTML, CSS/SCSS,
 JS/TS. Now I am improving my
 skills in this direction and
 expanding them with new
-technologies.</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1W-ta0Xh8bdxqT5oCT1Dfo6741RI_esN9/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
+technologies.~
+Trying myself in JAVA right now.
+</p><p align='left'> You can view my resume <a href='https://drive.google.com/file/d/1W-ta0Xh8bdxqT5oCT1Dfo6741RI_esN9/view?usp=sharing ' target=_blank><u>here</u>.</a></p>
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=UladzislauPapliouka alt=UladzislauPapliouka /> </p>
