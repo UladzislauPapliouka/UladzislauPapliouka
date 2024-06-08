@@ -1,8 +1,3 @@
-# 💫 About Me:
-
-🔭 I’m currently working on pet-projects<br>🤝 I’m looking for help with an internship or a junior position<br>🌱 I’m
-currently learning frontend development in depth
-
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/UladzislauPapliouka) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16854584) [![TELEGRAM](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/etozhewil)
@@ -13,8 +8,8 @@ currently learning frontend development in depth
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=UladzislauPapliouka&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=UladzislauPapliouka&theme=vue-dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=UladzislauPapliouka&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=UladzislauPapliouka&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=UladzislauPapliouka&theme=vue-dark&hide_border=true)<br/> -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UladzislauPapliouka&theme=vue-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
